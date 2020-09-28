@@ -25,13 +25,24 @@
 - 7+ years of customer service 
 
 
-## Experience
+## Professional Experience
+
+- Bob's Steak and Chop House - Busser (2019-current)
+
+- 333 Pacific Steaks and Seafood (Cohn Restaurant Group) — Runner/Expo (2017-2020)
+
+- Cold Stone Creamery - Shift Lead (2012 - 2018)
+
+ Extensive interactions in customer service
+ Leadership experience in Shift Lead
+ 
+
+
+## Programming Experience
 
 - Writing discord bots for ease of life on a server I am apart of
 
 - Party to developing tournament management software with a peer
-
-- Participation in local Code-A-Thon
 
 
 ## Projects
